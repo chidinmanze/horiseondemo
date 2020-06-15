@@ -4,7 +4,7 @@ For this project, the primary goal was to make the HTML and CSS files readable a
  
 ## HTML Changes 
 - Added comments for each section 
-- Changed <div> tags to semantic tags wherever possible 
+- Changed div tags to semantic tags wherever possible 
 - Changed the site title to "Horiseon" instead of "website"
 - Ensure all navigation links are working correctly,
  
@@ -12,8 +12,8 @@ I also added "Home" links in each of the three sections in the main portion of t
  
 ## CSS Changes 
 Changes were also made to the style sheet to condense repetitive styles and reflect changes made to the HTML file, including:
-- Condensing <h2> styling for the main section
-- Condensing <h3> styling for the aside
+- Condensing h2 styling for the main section
+- Condensing h3 styling for the aside
 - Renaming classes in the <aside> section to match the elements they style 
  
 With these changes, the Horiseon website is on its way to becoming a more professional representation of the company.
