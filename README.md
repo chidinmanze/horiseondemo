@@ -1,5 +1,7 @@
 # 01 HTML CSS Git: Code Refactor - Solved
  
+https://chidinmanze.github.io/horiseondemo/ 
+ 
 For this project, the primary goal was to make the HTML and CSS files readable and well-organized. To do this, I made changes to the HTML, including:
  
 ## HTML Changes 
@@ -24,3 +26,16 @@ With these changes, the Horiseon website is on its way to becoming a more profes
 - Sticking to a consistent color theme that features the colors used in the Horiseon logo (#ffffff, #d9dcd6) and the background color of the header and navigation (#2a607c)
 - Formatting the text and images in the <aside> so that they look less choppy and more cohesive
 - Reduce the footer size, including the text and style 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+
