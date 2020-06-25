@@ -28,4 +28,4 @@ With these changes, the Horiseon website is on its way to becoming a more profes
 - Reduce the footer size, including the text and style 
 
 
-<img src="Horiseon Page.jpg" alt="Horiseon website image"/>
+<img src="/Horiseon Page.jpg" alt="Horiseon website image"/>
