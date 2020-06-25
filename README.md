@@ -27,6 +27,6 @@ With these changes, the Horiseon website is on its way to becoming a more profes
 - Formatting the text and images in the <aside> so that they look less choppy and more cohesive
 - Reduce the footer size, including the text and style 
 
-<img src ="https://github.com/chidinmanze/horiseondemo/blob/master/Horiseon%20Header.PNG" alt="Website header screenshot'>
+<img src ="https://github.com/chidinmanze/horiseondemo/blob/master/Horiseon%20Header.PNG" alt="Website header screenshot">
 <img src ="https://github.com/chidinmanze/horiseondemo/blob/master/Horiseon%20Page.PNG" alt="Website screenshot">
 
