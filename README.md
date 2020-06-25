@@ -29,4 +29,5 @@ With these changes, the Horiseon website is on its way to becoming a more profes
 
 <img src ="https://github.com/chidinmanze/horiseondemo/blob/master/Horiseon%20Header.PNG" alt="Website header screenshot">
 <img src ="https://github.com/chidinmanze/horiseondemo/blob/master/Horiseon%20Page.PNG" alt="Website screenshot">
+<img src ="https://github.com/chidinmanze/horiseondemo/blob/master/Horiseon%20Page%202.PNG" alt="Website screenshot">
 
